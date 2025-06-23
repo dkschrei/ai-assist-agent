@@ -1,0 +1,31 @@
+streamlit>=1.28.0
+crewai>=0.28.0
+openai>=1.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+pymilvus>=2.3.0
+sentence-transformers>=2.2.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+numpy>=1.24.0
+pandas>=2.0.0
+plotly>=5.15.0
+streamlit-chat>=0.1.1
+# Document authoring and creation
+reportlab>=4.0.0
+python-docx>=0.8.11
+markdown>=3.5.0
+jinja2>=3.1.0
+# Visual creation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pillow>=10.0.0
+# Inter-agent communication
+fastapi>=0.104.0
+uvicorn>=0.24.0
+httpx>=0.25.0
+redis>=5.0.0
+# Additional utilities
+pydantic>=2.5.0
+aiofiles>=23.2.0
